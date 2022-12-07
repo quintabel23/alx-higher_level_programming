@@ -1,1 +1,1 @@
-6. Print sorted dictionary
+7. Update dictionary
