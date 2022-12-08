@@ -1,1 +1,1 @@
-9. Multiply by 2
+10. Best score
