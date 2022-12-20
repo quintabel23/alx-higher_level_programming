@@ -1,1 +1,1 @@
-7. Safe integer print with error message
+8. Safe function
