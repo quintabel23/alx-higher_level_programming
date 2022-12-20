@@ -1,1 +1,1 @@
-5. Raise exception
+6. Raise a message
