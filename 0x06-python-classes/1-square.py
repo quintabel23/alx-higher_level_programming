@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-# 0-square.py by Chikwendu Grace
+# 0-square.py by Ehoneah Obed
 """Defines a square """
 
 
-class Square:
+    class Square:
     """Represents a square"""
 
     def __init__(self, size):
