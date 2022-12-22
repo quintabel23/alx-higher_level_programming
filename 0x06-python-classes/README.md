@@ -1,1 +1,1 @@
-1. Square with size
+2. Size validation
