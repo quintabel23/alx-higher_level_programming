@@ -1,1 +1,1 @@
-4. Access and update private attribute
+5. Printing a square
